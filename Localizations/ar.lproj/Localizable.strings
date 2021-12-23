@@ -1,0 +1,335 @@
+/* About menu item in panel menu */
+"About" = "عن";
+
+/* The message that appears if the user declines accessibility access. */
+"Access Not Enabled" = "الوصول غير ممكن";
+
+/* Aperture, Used on panel image view and movie */
+"Aperture" = "فرج";
+
+/* No comment provided by engineer. */
+"Audio" = "صوتي";
+
+/* No comment provided by engineer. */
+"Audio Bitrate" = "معدل البت الصوتي";
+
+/* No comment provided by engineer. */
+"Audio:" = "صوتي:";
+
+/* Used on panel when accessibility api is disabled */
+"Authorize" = "تاذن";
+
+/* Used on authorization welcome screen */
+"Authorize Informant" = "تفويض المخبر";
+
+/* Available, Used on panel volume view */
+"Available" = "متوفر";
+
+/* No comment provided by engineer. */
+"Bitrate" = "معدل البت";
+
+/* The colour Blue */
+"Blue" = "أزرق";
+
+/* Used when calculating a property */
+"Calculating..." = "حساب...";
+
+/* Camera, Used on panel image view and movie */
+"Camera" = "كاميرا";
+
+/* Used on auth instructions */
+"Check Informant" = "التحقق من المخبر";
+
+/* No comment provided by engineer. */
+"Choose" = "اختار";
+
+/* Used on auth instructions */
+"Click Privacy" = "انقر على الخصوصية";
+
+/* Used on auth instructions */
+"Click Security & Privacy" = "انقر على الأمان والخصوصية";
+
+/* No comment provided by engineer. */
+"Click the menu bar utility to copy the path." = "انقر فوق الأداة المساعدة شريط القوائم لنسخ المسار.";
+
+/* Codecs, Used on panel movie view */
+"Codecs" = "الترميز";
+
+/* Color Profile, Used on panel image view and movie */
+"Color Profile" = "ملف تعريف اللون";
+
+/* Contains, Used on the panel directory view */
+"Contains" = "يحتوي";
+
+/* Used on the copied popup */
+"Copied" = "نسخ";
+
+/* This is the file's creation date displayed in the panel */
+"Created" = "انشاء";
+
+/* Dimensions, Used on panel image view and movie */
+"Dimensions" = "ابعاد";
+
+/* Pick the root url used to give security access to the app. */
+"Disk Path:" = "مسار القرص:";
+
+/* Shortcut label for displaying panel */
+"Display detail panel" = "لوحة تفاصيل العرض";
+
+/* No comment provided by engineer. */
+"Donate" = "تبرّع";
+
+/* Duration, Used on panel movie & audio view */
+"Duration" = "مدة";
+
+/* The tag string to the date modified on the panel interface */
+"Edited" = "تحرير";
+
+/* This is the label that appears after clicking the path label on the panel */
+"Expanded Path" = "مسار موسع";
+
+/* Exposure, Used on panel image view and movie */
+"Exposure" = "التعرض";
+
+/* No comment provided by engineer. */
+"Feedback" = "ردود الفعل";
+
+/* No comment provided by engineer. */
+"Finding" = "ايجاد";
+
+/* Used when finding a property */
+"Finding..." = "ايجاد...";
+
+/* Used when calculating a property has come to end */
+"Finished" = "منته";
+
+/* Focal Length, Used on panel image view and movie */
+"Focal Length" = "البعد البؤري";
+
+/* No comment provided by engineer. */
+"General" = "عام";
+
+/* Open panel's grant access button label */
+"Grant Access" = "منح حق الوصول";
+
+/* The colour Green */
+"Green" = "أخضر";
+
+/* The colour Gray */
+"Grey" = "رمادي";
+
+/* Help menu item in panel menu */
+"Help" = "تعليمات";
+
+/* Used on bottom of the panel view to indicate a hidden file */
+"Hidden" = "مخفي";
+
+/* No comment provided by engineer. */
+"Hide date created" = "إخفاء التاريخ الذي تم إنشاؤه";
+
+/* No comment provided by engineer. */
+"Hide full name" = "إخفاء الاسم الكامل";
+
+/* No comment provided by engineer. */
+"Hide icon" = "إخفاء الرمز";
+
+/* Asks the user if they want the menubar-utility disabled */
+"Hide Menu Bar Utility" = "إخفاء أداة شريط القوائم";
+
+/* No comment provided by engineer. */
+"Hide path" = "إخفاء المسار";
+
+/* No comment provided by engineer. */
+"Icon:" = "رمز:";
+
+/* Used on authorized welcome panel */
+"If the checkbox is greyed out, click the lock and enter your password." = "إذا كان مربع الاختيار رماديا، فانقر على القفل وأدخل كلمة المرور.";
+
+/* No comment provided by engineer. */
+"Images" = "الصور";
+
+/* No comment provided by engineer. */
+"In Automation, under Informant, make sure Finder is checked" = "في التنفيذ التلقائي، ضمن Informant، تأكد من التحقق من Finder";
+
+/* Asks the user if they want to see where the file is located instead of the full path */
+"Include name of selection in path" = "تضمين اسم التحديد في المسار";
+
+/* Used on the authorize panel, it's the body string */
+"Informant needs your permission to read file metadata." = "يحتاج المخبر إذنك لقراءة بيانات تعريف الملف.";
+
+/* No comment provided by engineer. */
+"ISO" = "ايزو";
+
+/* Singular version of items */
+"item" = "بند";
+
+/* Items, used in the single directory selection */
+"items" = "العناصر";
+
+/* No comment provided by engineer. */
+"Items" = "العناصر";
+
+/* The tag string to go on a multi-selection title in the panel */
+"items selected" = "العناصر المحددة";
+
+/* This is the file's kind displayed in the panel */
+"Kind" = "نوع";
+
+/* Asks the user if they want the app to launch on startup */
+"Launch Informant on system startup" = "إطلاق Informant عند بدء تشغيل النظام";
+
+/* No comment provided by engineer. */
+"Media" = "وسائط";
+
+/* No comment provided by engineer. */
+"Menu Bar Utility" = "أداة شريط القوائم";
+
+/* This is the file's name displayed on the panel */
+"Name" = "اسم";
+
+/* The title displayed when the selection errors out */
+"No access" = "لا وصول";
+
+/* No comment provided by engineer. */
+"No icon" = "لا يوجد رمز";
+
+/* String displayed when no items are selected. */
+"No selection" = "لا يوجد تحديد";
+
+/* No comment provided by engineer. */
+"None" = "اي";
+
+/* Used on auth instructions */
+"Open System Preferences" = "فتح تفضيلات النظام";
+
+/* The colour Orange */
+"Orange" = "برتقالي";
+
+/* No comment provided by engineer. */
+"Packages" = "الرزم";
+
+/* No comment provided by engineer. */
+"Panel" = "خشب";
+
+/* This is the file's path displayed in the panel */
+"Path" = "مسار";
+
+/* Used on the copied popup */
+"Path Copied" = "المسار المنسوخ";
+
+/* No comment provided by engineer. */
+"Pause Informant" = "إيقاف المخبر مؤقتا";
+
+/* No comment provided by engineer. */
+"Paused" = "توقف";
+
+/* Preferences menu item in panel menu */
+"Preferences..." = "التفضيلات...";
+
+/* The shell application the user chooses to use */
+"Preferred Shell:" = "شل المفضلة:";
+
+/* No comment provided by engineer. */
+"Privacy" = "الخصوصيه";
+
+/* Purgeable, Used on volume panel view */
+"Purgeable" = "قابل للتطهير";
+
+/* The colour Purple */
+"Purple" = "بنفسجي";
+
+/* Quit menu item in panel menu */
+"Quit" = "انهاء";
+
+/* No comment provided by engineer. */
+"Quit Informant and reopen it" = "إنهاء Informant وإعادة فتحه";
+
+/* The colour Red */
+"Red" = "أحمر";
+
+/* The indicator label when dragging the panel near the snap zone */
+"Release to snap" = "الافراج عن المفاجئة";
+
+/* No comment provided by engineer. */
+"Releases" = "الاصدارات";
+
+/* No comment provided by engineer. */
+"Required in-order to display additional metadata and the size of a directory. Choose Macintosh HD." = "مطلوب لعرض بيانات تعريف إضافية وحجم دليل. اختر ماكنتوش HD.";
+
+/* No comment provided by engineer. */
+"Resume" = "استأنف";
+
+/* No comment provided by engineer. */
+"Resume Informant" = "استئناف المخبر";
+
+/* Sample rate, Used on panel audio view */
+"Sample Rate" = "معدل العينة";
+
+/* Used on auth instructions */
+"Scroll down and click Accessibility" = "مرر لأسفل وانقر على إمكانية الوصول";
+
+/* Asks the user what shortcut they want to activate the panel */
+"Shortcut to activate panel" = "اختصار لتنشيط اللوحة";
+
+/* Asks the user if they want the menubar-utility enabled */
+"Show Menu Bar Utility" = "إظهار أداة شريط القوائم";
+
+/* No comment provided by engineer. */
+"Shutter Speed" = "سرعة الغالق";
+
+/* This is the file's size displayed in the panel */
+"Size" = "حجم";
+
+/* Asks the user if they want to prevent the app from sizing directories. */
+"Skip getting size for folders and apps" = "تخطي الحصول على حجم المجلدات والتطبيقات";
+
+/* No comment provided by engineer. */
+"System" = "نظام";
+
+/* Used on tags panel view */
+"Tags" = "العلامات";
+
+/* No comment provided by engineer. */
+"Tap to resume" = "اضغط على لاستئناف";
+
+/* Used on welcome panel */
+"To use Informant, select a file, and its size will appear in the menu bar." = "لاستخدام Informant، حدد ملفا، وسيظهر حجمه في شريط القوائم.";
+
+/* Toggle panel menu item in panel menu */
+"Toggle Panel" = "لوحة تبديل";
+
+/* Asks the user what shortcut they want to toggle the details panel */
+"Toggle panel shortcut:" = "تبديل اختصار اللوحة:";
+
+/* Total, Used on volume panel view */
+"Total" = "مجموع";
+
+/* The tag string under the title of the multi-selection panel */
+"Total Size:" = "الحجم الإجمالي:";
+
+/* Used on panel when accessibility api is disabled */
+"Unauthorized" = "غير المصرح به";
+
+/* Used when calculating a property but it's not there */
+"Unavailable" = "غير متوفر";
+
+/* Version, Used on panel application view */
+"Version" = "الإصدار";
+
+/* No comment provided by engineer. */
+"Video Bitrate" = "معدل البت بالفيديو";
+
+/* No comment provided by engineer. */
+"Video:" = "فيديو:";
+
+/* No comment provided by engineer. */
+"Volume" = "حجم";
+
+/* This is the file's where path displayed in the panel */
+"Where" = "أين";
+
+/* The colour Yellow */
+"Yellow" = "أصفر";
+
+/* Used on welcome panel */
+"You're ready to use Informant!" = "أنت مستعد لاستخدام المخبر!";

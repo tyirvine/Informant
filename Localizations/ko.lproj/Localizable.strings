@@ -1,0 +1,335 @@
+/* About menu item in panel menu */
+"About" = "약";
+
+/* The message that appears if the user declines accessibility access. */
+"Access Not Enabled" = "액세스가 활성화되지 않음";
+
+/* Aperture, Used on panel image view and movie */
+"Aperture" = "조리개";
+
+/* No comment provided by engineer. */
+"Audio" = "오디오";
+
+/* No comment provided by engineer. */
+"Audio Bitrate" = "오디오 비트 레이트";
+
+/* No comment provided by engineer. */
+"Audio:" = "오디오:";
+
+/* Used on panel when accessibility api is disabled */
+"Authorize" = "권한을 부여";
+
+/* Used on authorization welcome screen */
+"Authorize Informant" = "제보자 승인";
+
+/* Available, Used on panel volume view */
+"Available" = "이용할 수 있는";
+
+/* No comment provided by engineer. */
+"Bitrate" = "비트 레이트";
+
+/* The colour Blue */
+"Blue" = "파랑";
+
+/* Used when calculating a property */
+"Calculating..." = "계산...";
+
+/* Camera, Used on panel image view and movie */
+"Camera" = "사진기";
+
+/* Used on auth instructions */
+"Check Informant" = "제보자 확인";
+
+/* No comment provided by engineer. */
+"Choose" = "고르다";
+
+/* Used on auth instructions */
+"Click Privacy" = "개인 정보 보호를 클릭합니다.";
+
+/* Used on auth instructions */
+"Click Security & Privacy" = "보안 및 개인 정보 보호를 클릭합니다.";
+
+/* No comment provided by engineer. */
+"Click the menu bar utility to copy the path." = "메뉴를 클릭하여 경로를 복사합니다.";
+
+/* Codecs, Used on panel movie view */
+"Codecs" = "코덱";
+
+/* Color Profile, Used on panel image view and movie */
+"Color Profile" = "색상 프로필";
+
+/* Contains, Used on the panel directory view */
+"Contains" = "포함";
+
+/* Used on the copied popup */
+"Copied" = "복사";
+
+/* This is the file's creation date displayed in the panel */
+"Created" = "만든";
+
+/* Dimensions, Used on panel image view and movie */
+"Dimensions" = "차원";
+
+/* Pick the root url used to give security access to the app. */
+"Disk Path:" = "디스크 경로:";
+
+/* Shortcut label for displaying panel */
+"Display detail panel" = "세부 패널 표시";
+
+/* No comment provided by engineer. */
+"Donate" = "기부";
+
+/* Duration, Used on panel movie & audio view */
+"Duration" = "기간";
+
+/* The tag string to the date modified on the panel interface */
+"Edited" = "편집";
+
+/* This is the label that appears after clicking the path label on the panel */
+"Expanded Path" = "확장 된 경로";
+
+/* Exposure, Used on panel image view and movie */
+"Exposure" = "노출";
+
+/* No comment provided by engineer. */
+"Feedback" = "피드백";
+
+/* No comment provided by engineer. */
+"Finding" = "찾는";
+
+/* Used when finding a property */
+"Finding..." = "찾는...";
+
+/* Used when calculating a property has come to end */
+"Finished" = "완료";
+
+/* Focal Length, Used on panel image view and movie */
+"Focal Length" = "초점";
+
+/* No comment provided by engineer. */
+"General" = "일반";
+
+/* Open panel's grant access button label */
+"Grant Access" = "교부금 액세스";
+
+/* The colour Green */
+"Green" = "녹색";
+
+/* The colour Gray */
+"Grey" = "회색";
+
+/* Help menu item in panel menu */
+"Help" = "도움말";
+
+/* Used on bottom of the panel view to indicate a hidden file */
+"Hidden" = "숨겨진";
+
+/* No comment provided by engineer. */
+"Hide date created" = "생성된 숨기기 날짜";
+
+/* No comment provided by engineer. */
+"Hide full name" = "전체 이름 숨기기";
+
+/* No comment provided by engineer. */
+"Hide icon" = "아이콘 숨기기";
+
+/* Asks the user if they want the menubar-utility disabled */
+"Hide Menu Bar Utility" = "메뉴 바 유틸리티 숨기기";
+
+/* No comment provided by engineer. */
+"Hide path" = "경로 숨기기";
+
+/* No comment provided by engineer. */
+"Icon:" = "아이콘:";
+
+/* Used on authorized welcome panel */
+"If the checkbox is greyed out, click the lock and enter your password." = "확인란이 회색으로 표시됩니다.";
+
+/* No comment provided by engineer. */
+"Images" = "이미지";
+
+/* No comment provided by engineer. */
+"In Automation, under Informant, make sure Finder is checked" = "자동화에서 제보자의 경우 Finder를 검사해야 합니다.";
+
+/* Asks the user if they want to see where the file is located instead of the full path */
+"Include name of selection in path" = "경로에 선택 이름 포함";
+
+/* Used on the authorize panel, it's the body string */
+"Informant needs your permission to read file metadata." = "제보자는 파일 메타데이터를 읽을 수 있는 권한이 필요합니다.";
+
+/* No comment provided by engineer. */
+"ISO" = "ISO";
+
+/* Singular version of items */
+"item" = "항목";
+
+/* Items, used in the single directory selection */
+"items" = "항목";
+
+/* No comment provided by engineer. */
+"Items" = "항목";
+
+/* The tag string to go on a multi-selection title in the panel */
+"items selected" = "선택한 항목";
+
+/* This is the file's kind displayed in the panel */
+"Kind" = "종류";
+
+/* Asks the user if they want the app to launch on startup */
+"Launch Informant on system startup" = "시스템 시작에 대한 제보자 출시";
+
+/* No comment provided by engineer. */
+"Media" = "미디어";
+
+/* No comment provided by engineer. */
+"Menu Bar Utility" = "메뉴 바 유틸리티";
+
+/* This is the file's name displayed on the panel */
+"Name" = "이름";
+
+/* The title displayed when the selection errors out */
+"No access" = "액세스 권한이 없습니다.";
+
+/* No comment provided by engineer. */
+"No icon" = "아이콘 없음";
+
+/* String displayed when no items are selected. */
+"No selection" = "선택 없음";
+
+/* No comment provided by engineer. */
+"None" = "없음";
+
+/* Used on auth instructions */
+"Open System Preferences" = "시스템 기본 설정 열기";
+
+/* The colour Orange */
+"Orange" = "오렌지";
+
+/* No comment provided by engineer. */
+"Packages" = "패키지";
+
+/* No comment provided by engineer. */
+"Panel" = "패널";
+
+/* This is the file's path displayed in the panel */
+"Path" = "길";
+
+/* Used on the copied popup */
+"Path Copied" = "복사된 경로";
+
+/* No comment provided by engineer. */
+"Pause Informant" = "제보자 일시 중지";
+
+/* No comment provided by engineer. */
+"Paused" = "일시 중지";
+
+/* Preferences menu item in panel menu */
+"Preferences..." = "선호...";
+
+/* The shell application the user chooses to use */
+"Preferred Shell:" = "기본 셸:";
+
+/* No comment provided by engineer. */
+"Privacy" = "사생활";
+
+/* Purgeable, Used on volume panel view */
+"Purgeable" = "퍼지기";
+
+/* The colour Purple */
+"Purple" = "보라색";
+
+/* Quit menu item in panel menu */
+"Quit" = "사임하다";
+
+/* No comment provided by engineer. */
+"Quit Informant and reopen it" = "제보자를 그만두고 다시 열다";
+
+/* The colour Red */
+"Red" = "빨강";
+
+/* The indicator label when dragging the panel near the snap zone */
+"Release to snap" = "스냅할 릴리스";
+
+/* No comment provided by engineer. */
+"Releases" = "릴리스";
+
+/* No comment provided by engineer. */
+"Required in-order to display additional metadata and the size of a directory. Choose Macintosh HD." = "추가 메타데이터와 디렉터리 크기를 표시하려면 필수입니다. 매킨토시 HD를 선택합니다.";
+
+/* No comment provided by engineer. */
+"Resume" = "이력서";
+
+/* No comment provided by engineer. */
+"Resume Informant" = "제보자 이력서";
+
+/* Sample rate, Used on panel audio view */
+"Sample Rate" = "샘플 속도";
+
+/* Used on auth instructions */
+"Scroll down and click Accessibility" = "아래로 스크롤하여 접근성을 클릭합니다.";
+
+/* Asks the user what shortcut they want to activate the panel */
+"Shortcut to activate panel" = "패널을 활성화하는 바로 가기";
+
+/* Asks the user if they want the menubar-utility enabled */
+"Show Menu Bar Utility" = "메뉴 표시 바 유틸리티";
+
+/* No comment provided by engineer. */
+"Shutter Speed" = "셔터 속도";
+
+/* This is the file's size displayed in the panel */
+"Size" = "크기";
+
+/* Asks the user if they want to prevent the app from sizing directories. */
+"Skip getting size for folders and apps" = "폴더 및 앱의 크기 얻기 건너뛰기";
+
+/* No comment provided by engineer. */
+"System" = "체계";
+
+/* Used on tags panel view */
+"Tags" = "태그";
+
+/* No comment provided by engineer. */
+"Tap to resume" = "탭을 눌러 다시 시작합니다.";
+
+/* Used on welcome panel */
+"To use Informant, select a file, and its size will appear in the menu bar." = "정보 원을 사용하려면 파일을 선택하고 그 크기는 메뉴 모음에 나타납니다.";
+
+/* Toggle panel menu item in panel menu */
+"Toggle Panel" = "토글 패널";
+
+/* Asks the user what shortcut they want to toggle the details panel */
+"Toggle panel shortcut:" = "토글 패널 바로 가기:";
+
+/* Total, Used on volume panel view */
+"Total" = "합계";
+
+/* The tag string under the title of the multi-selection panel */
+"Total Size:" = "총 크기:";
+
+/* Used on panel when accessibility api is disabled */
+"Unauthorized" = "무단";
+
+/* Used when calculating a property but it's not there */
+"Unavailable" = "사용할";
+
+/* Version, Used on panel application view */
+"Version" = "버전";
+
+/* No comment provided by engineer. */
+"Video Bitrate" = "비디오 비트 레이트";
+
+/* No comment provided by engineer. */
+"Video:" = "비디오:";
+
+/* No comment provided by engineer. */
+"Volume" = "음량";
+
+/* This is the file's where path displayed in the panel */
+"Where" = "어디";
+
+/* The colour Yellow */
+"Yellow" = "황색";
+
+/* Used on welcome panel */
+"You're ready to use Informant!" = "제보자를 사용할 준비가 되었습니다!";

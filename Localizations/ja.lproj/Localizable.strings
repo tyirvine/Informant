@@ -1,0 +1,335 @@
+/* About menu item in panel menu */
+"About" = "About";
+
+/* The message that appears if the user declines accessibility access. */
+"Access Not Enabled" = "アクセスが無効です";
+
+/* Aperture, Used on panel image view and movie */
+"Aperture" = "絞り";
+
+/* No comment provided by engineer. */
+"Audio" = "オーディオ";
+
+/* No comment provided by engineer. */
+"Audio Bitrate" = "オーディオビットレート";
+
+/* No comment provided by engineer. */
+"Audio:" = "オーディオ:";
+
+/* Used on panel when accessibility api is disabled */
+"Authorize" = "許可する";
+
+/* Used on authorization welcome screen */
+"Authorize Informant" = "Informantを許可";
+
+/* Available, Used on panel volume view */
+"Available" = "空き容量";
+
+/* No comment provided by engineer. */
+"Bitrate" = "ビットレート";
+
+/* The colour Blue */
+"Blue" = "ブルー";
+
+/* Used when calculating a property */
+"Calculating..." = "計算中...";
+
+/* Camera, Used on panel image view and movie */
+"Camera" = "カメラ";
+
+/* Used on auth instructions */
+"Check Informant" = "Informantをチェック";
+
+/* No comment provided by engineer. */
+"Choose" = "選ぶ";
+
+/* Used on auth instructions */
+"Click Privacy" = "[プライバシー] をクリック";
+
+/* Used on auth instructions */
+"Click Security & Privacy" = "[セキュリティとプライバシー] をクリック";
+
+/* No comment provided by engineer. */
+"Click the menu bar utility to copy the path." = "パスをコピーするには、メニューバーユーティリティをクリックします。";
+
+/* Codecs, Used on panel movie view */
+"Codecs" = "コーデック";
+
+/* Color Profile, Used on panel image view and movie */
+"Color Profile" = "カラープロファイル";
+
+/* Contains, Used on the panel directory view */
+"Contains" = "項目数";
+
+/* Used on the copied popup */
+"Copied" = "コピーしました";
+
+/* This is the file's creation date displayed in the panel */
+"Created" = "作成日";
+
+/* Dimensions, Used on panel image view and movie */
+"Dimensions" = "解像度";
+
+/* Pick the root url used to give security access to the app. */
+"Disk Path:" = "ディスクパス:";
+
+/* Shortcut label for displaying panel */
+"Display detail panel" = "詳細パネルを表示";
+
+/* No comment provided by engineer. */
+"Donate" = "寄付する";
+
+/* Duration, Used on panel movie & audio view */
+"Duration" = "再生時間";
+
+/* The tag string to the date modified on the panel interface */
+"Edited" = "変更日";
+
+/* This is the label that appears after clicking the path label on the panel */
+"Expanded Path" = "拡張パス";
+
+/* Exposure, Used on panel image view and movie */
+"Exposure" = "露出";
+
+/* No comment provided by engineer. */
+"Feedback" = "フィードバック";
+
+/* No comment provided by engineer. */
+"Finding" = "検索中";
+
+/* Used when finding a property */
+"Finding..." = "検索中...";
+
+/* Used when calculating a property has come to end */
+"Finished" = "完了";
+
+/* Focal Length, Used on panel image view and movie */
+"Focal Length" = "焦点距離";
+
+/* No comment provided by engineer. */
+"General" = "一般";
+
+/* Open panel's grant access button label */
+"Grant Access" = "アクセス権の付与";
+
+/* The colour Green */
+"Green" = "グリーン";
+
+/* The colour Gray */
+"Grey" = "グレイ";
+
+/* Help menu item in panel menu */
+"Help" = "ヘルプ";
+
+/* Used on bottom of the panel view to indicate a hidden file */
+"Hidden" = "隠しファイル";
+
+/* No comment provided by engineer. */
+"Hide date created" = "作成日を非表示";
+
+/* No comment provided by engineer. */
+"Hide full name" = "名前を非表示";
+
+/* No comment provided by engineer. */
+"Hide icon" = "アイコンを非表示";
+
+/* Asks the user if they want the menubar-utility disabled */
+"Hide Menu Bar Utility" = "メニューバーユーティリティを非表示";
+
+/* No comment provided by engineer. */
+"Hide path" = "パスを非表示";
+
+/* No comment provided by engineer. */
+"Icon:" = "アイコン:";
+
+/* Used on authorized welcome panel */
+"If the checkbox is greyed out, click the lock and enter your password." = "チェックボックスがグレーアウトしている場合は、鍵マークをクリックしてパスワードを入力してください。";
+
+/* No comment provided by engineer. */
+"Images" = "画像";
+
+/* No comment provided by engineer. */
+"In Automation, under Informant, make sure Finder is checked" = "オートメーションの [Informant] で、Finder がチェックされていることを確認";
+
+/* Asks the user if they want to see where the file is located instead of the full path */
+"Include name of selection in path" = "選択ファイル名を含めたパスを表示";
+
+/* Used on the authorize panel, it's the body string */
+"Informant needs your permission to read file metadata." = "Informantは、ファイルメタデータを読み取るための許可を必要とします。";
+
+/* No comment provided by engineer. */
+"ISO" = "ISO";
+
+/* Singular version of items */
+"item" = "項目";
+
+/* Items, used in the single directory selection */
+"items" = "項目";
+
+/* No comment provided by engineer. */
+"Items" = "項目";
+
+/* The tag string to go on a multi-selection title in the panel */
+"items selected" = "項目を選択";
+
+/* This is the file's kind displayed in the panel */
+"Kind" = "種類";
+
+/* Asks the user if they want the app to launch on startup */
+"Launch Informant on system startup" = "システム起動時にInformantを起動";
+
+/* No comment provided by engineer. */
+"Media" = "メディア";
+
+/* No comment provided by engineer. */
+"Menu Bar Utility" = "メニューバーユーティリティ";
+
+/* This is the file's name displayed on the panel */
+"Name" = "名前";
+
+/* The title displayed when the selection errors out */
+"No access" = "アクセスできません";
+
+/* No comment provided by engineer. */
+"No icon" = "アイコンなし";
+
+/* String displayed when no items are selected. */
+"No selection" = "選択されていません";
+
+/* No comment provided by engineer. */
+"None" = "何一つ";
+
+/* Used on auth instructions */
+"Open System Preferences" = "システム環境設定を開く";
+
+/* The colour Orange */
+"Orange" = "オレンジ";
+
+/* No comment provided by engineer. */
+"Packages" = "パッケージ";
+
+/* No comment provided by engineer. */
+"Panel" = "パネル";
+
+/* This is the file's path displayed in the panel */
+"Path" = "パス";
+
+/* Used on the copied popup */
+"Path Copied" = "パスをコピーしました";
+
+/* No comment provided by engineer. */
+"Pause Informant" = "Informantを一時停止";
+
+/* No comment provided by engineer. */
+"Paused" = "一時停止";
+
+/* Preferences menu item in panel menu */
+"Preferences..." = "設定...";
+
+/* The shell application the user chooses to use */
+"Preferred Shell:" = "優先シェル:";
+
+/* No comment provided by engineer. */
+"Privacy" = "プライバシー";
+
+/* Purgeable, Used on volume panel view */
+"Purgeable" = "パージ可能";
+
+/* The colour Purple */
+"Purple" = "パープル";
+
+/* Quit menu item in panel menu */
+"Quit" = "Informantを終了";
+
+/* No comment provided by engineer. */
+"Quit Informant and reopen it" = "Informantを終了し、再度開く";
+
+/* The colour Red */
+"Red" = "レッド";
+
+/* The indicator label when dragging the panel near the snap zone */
+"Release to snap" = "スナップにリリース";
+
+/* No comment provided by engineer. */
+"Releases" = "リリース";
+
+/* No comment provided by engineer. */
+"Required in-order to display additional metadata and the size of a directory. Choose Macintosh HD." = "追加のメタデータとディレクトリのサイズを表示するために必要です。Macintosh HDを選択してください。";
+
+/* No comment provided by engineer. */
+"Resume" = "再開";
+
+/* No comment provided by engineer. */
+"Resume Informant" = "Informantを再開";
+
+/* Sample rate, Used on panel audio view */
+"Sample Rate" = "サンプリングレート";
+
+/* Used on auth instructions */
+"Scroll down and click Accessibility" = "下にスクロールして[アクセシビリティ]をクリック";
+
+/* Asks the user what shortcut they want to activate the panel */
+"Shortcut to activate panel" = "パネルをアクティブにするショートカット";
+
+/* Asks the user if they want the menubar-utility enabled */
+"Show Menu Bar Utility" = "メニューバーユーティリティを表示";
+
+/* No comment provided by engineer. */
+"Shutter Speed" = "シャッタースピード";
+
+/* This is the file's size displayed in the panel */
+"Size" = "サイズ";
+
+/* Asks the user if they want to prevent the app from sizing directories. */
+"Skip getting size for folders and apps" = "フォルダーとアプリのサイズの取得をスキップ";
+
+/* No comment provided by engineer. */
+"System" = "システム";
+
+/* Used on tags panel view */
+"Tags" = "タグ";
+
+/* No comment provided by engineer. */
+"Tap to resume" = "タップして再開";
+
+/* Used on welcome panel */
+"To use Informant, select a file, and its size will appear in the menu bar." = "Informantを使用するには、ファイルを選択すると、そのサイズがメニューバーに表示されます。";
+
+/* Toggle panel menu item in panel menu */
+"Toggle Panel" = "パネル表示";
+
+/* Asks the user what shortcut they want to toggle the details panel */
+"Toggle panel shortcut:" = "パネル表示ショートカット:";
+
+/* Total, Used on volume panel view */
+"Total" = "容量";
+
+/* The tag string under the title of the multi-selection panel */
+"Total Size:" = "合計サイズ:";
+
+/* Used on panel when accessibility api is disabled */
+"Unauthorized" = "アクセス許可がありません";
+
+/* Used when calculating a property but it's not there */
+"Unavailable" = "利用できません";
+
+/* Version, Used on panel application view */
+"Version" = "バージョン";
+
+/* No comment provided by engineer. */
+"Video Bitrate" = "ビデオビットレート";
+
+/* No comment provided by engineer. */
+"Video:" = "ビデオ:";
+
+/* No comment provided by engineer. */
+"Volume" = "ボリューム";
+
+/* This is the file's where path displayed in the panel */
+"Where" = "場所";
+
+/* The colour Yellow */
+"Yellow" = "イエロー";
+
+/* Used on welcome panel */
+"You're ready to use Informant!" = "Informantを使用する準備ができました!";
