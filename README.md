@@ -79,9 +79,6 @@ However, if it's a file with a normal extension, and it's not stored in a Networ
 
 After authorizing, you may need to quit Informant and re-open it.
 
-### Does Informant require a subscription?
-Nope. Informant is free to use! However, creating it was a lot of work, so please [consider sponsoring](https://github.com/sponsors/tyirvine).
-
 ### Is Informant localized?
 Yes! However, it uses Microsoft Azure for translations so they may not be 100% accurate. If you've found a translation that you think is incorrect, please [submit feedback](https://github.com/tyirvine/Informant/issues/new/choose).
 
