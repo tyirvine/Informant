@@ -3,12 +3,16 @@
 
 <div>
   <h1>Informant</h1>
+  Inspect files with a single click.
 </div>
 
-Welcome! This repository is dedicated to tracking bugs, feature requests, and anything else releated to the macOS app Informant.
+<br>
+
+## What is this? 💭
+Welcome! This is a repository dedicated to tracking bugs, feature requests, and anything else releated to the macOS app Informant. Some of Informant's code can be viewed here as well.
 
 ## Feedback 📣
-Simply create a [new issue](/issues/new/choose) and you'll have the option of creating either a feature request or bug report.
+If you have feedback simply create a [new issue](/issues/new/choose) and you'll have the option of creating either a feature request or bug report.
 
 **Note:** If you have time, please include images, screenshots, or illustrations when submitting feedback.
 
