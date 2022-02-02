@@ -14,7 +14,7 @@ However, if it's a file with a normal extension, and it's not stored in a Networ
 After authorizing, you may need to quit Informant and re-open it.
 
 ### Is Informant localized?
-Yes! However, it uses Microsoft Azure for translations so they may not be 100% accurate. If you've found a translation that you think is incorrect, please [submit feedback](https://github.com/tyirvine/Informant/issues/new/choose).
+Yes! However, it uses Microsoft Azure for translations so they may not be 100% accurate. If you've found a translation that you think is incorrect, please [submit feedback](https://github.com/cocoasoftworks/Informant/issues/new/choose).
 
 ### Does Informant support other file explorers like Pathfinder or ForkLift?
 No, Informant only works with Finder. It can't detect files selected in any other application. This is because Informant depends on an API to communicate with Finder in order to work.
