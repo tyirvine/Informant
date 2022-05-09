@@ -22,9 +22,8 @@
 </div>
   
 # Install ☁️
-Informant is undergoing changes and is not availble at this time.
-<!-- #### [**Download**](https://github.com/tyirvine/Informant/releases/latest/download/Informant.zip) - **Requires macOS 11.0 or later**
-Afterwards, unzip `Informant.zip` and drag `Informant` into your Applications folder. -->
+#### [**Download**](https://github.com/tyirvine/Informant/releases/latest/download/Informant.zip) - **Requires macOS 11.0 or later**
+Afterwards, unzip `Informant.zip` and drag `Informant` into your Applications folder.
 
 # Contributing  🔨
 1. Start by forking this project **"To contribute to the parent project"**.
