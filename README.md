@@ -82,4 +82,6 @@ Informant runs on macOS 11.0 or later. It is not supported on Windows or Linux.
 Informant does not collect any personal data, period.
 
 # Acknowledgements 🧶
-Thank you to everyone who has contributed to this project! As well as all the awesome open source packages this application uses!
+Thank you to everyone who has contributed to this project! As well as all the awesome open source packages this application uses! ⤵︎
+- [LaunchAtLogin](https://github.com/sindresorhus/LaunchAtLogin) made by [sindresorhus](https://github.com/sindresorhus)
+- [Sparkle](https://github.com/sparkle-project/Sparkle) made by [The Sparkle Project](https://github.com/sparkle-project)
