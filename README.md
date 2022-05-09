@@ -67,6 +67,8 @@ However, if it's a file with a normal extension, and it's not stored in a Networ
 6. Then scroll through the list on the left and select `Automation`.
 7. In the list on the right, underneath Informant, check 'Finder'.
 
+Some items require special permissions, so you may need to also grant Informant full access to the disk. This permission can be found by going to `Security & Privacy > Accessibility > Full Disk Access` and checking off Informant in the scroll menu to the right.
+
 After authorizing, you may need to quit Informant and re-open it.
 
 ### Is Informant localized?
