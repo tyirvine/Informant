@@ -8,7 +8,7 @@
             <sparkle:version>18</sparkle:version>
             <sparkle:shortVersionString>0.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>11.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://raw.githubusercontent.com/tyirvine/Informant/main/Informant-0.1.zip" length="4850310" type="application/octet-stream" sparkle:edSignature="5DYyOyuYBXIoFweuld/TolqyuoBSjQM5OjaBGPtuq/nary9ByfeGJSRZP9t88TAWKiRiQguvAavEkvKtOO48Bw=="/>
+            <enclosure url="https://raw.githubusercontent.com/tyirvine/Informant/main/Informant.zip" length="4850310" type="application/octet-stream" sparkle:edSignature="5DYyOyuYBXIoFweuld/TolqyuoBSjQM5OjaBGPtuq/nary9ByfeGJSRZP9t88TAWKiRiQguvAavEkvKtOO48Bw=="/>
         </item>
     </channel>
 </rss>
