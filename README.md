@@ -10,11 +10,17 @@
 <br>
 
 <!-- Shields -->
-[![GitHub issues](https://img.shields.io/github/issues/tyirvine/Informant)](https://github.com/tyirvine/Informant/issues)
-![GitHub all releases](https://img.shields.io/github/downloads/tyirvine/Informant/total)
-![GitHub](https://img.shields.io/github/license/tyirvine/Informant)
-![GitHub release (latest by date)](https://img.shields.io/github/v/release/tyirvine/Informant?style=social)
 
+<div>
+<img alt="GitHub issues" src="https://img.shields.io/github/issues/tyirvine/Informant?color=bright%20green">
+
+<img alt="GitHub all releases" src="https://img.shields.io/github/downloads/tyirvine/Informant/total?color=bright%20green">
+
+<img alt="GitHub" src="https://img.shields.io/github/license/tyirvine/Informant?color=bright%20green">
+
+<img alt="GitHub release (latest by date)" src="https://img.shields.io/github/v/release/tyirvine/Informant?style=social">
+</div>
+  
 # Install ☁️
 Informant is undergoing changes and is not availble at this time.
 <!-- #### [**Download**](https://github.com/tyirvine/Informant/releases/latest/download/Informant.zip) - **Requires macOS 11.0 or later**
