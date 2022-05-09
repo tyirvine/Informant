@@ -76,10 +76,6 @@ Informant runs on macOS 11.0 or later. It is not supported on Windows or Linux.
 ### Privacy Policy  🔒
 Informant does not collect any personal data, period.
 
-<br>
+# Acknowledgements <3
+Thank you to everyone who has contributed to this project!
 
-<div align="center">
-
-### Thank you to everyone who has contributed to this project! ❤️
-
-</div>
