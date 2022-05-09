@@ -47,6 +47,7 @@
 		9AC397FE28089CF60027F6DC /* ConnectedMonitor.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9AC397FD28089CF60027F6DC /* ConnectedMonitor.swift */; };
 		9AC398002808F42C0027F6DC /* TestView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9AC397FF2808F42C0027F6DC /* TestView.swift */; };
 		9AC398022809ECF20027F6DC /* FramePoint.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9AC398012809ECF20027F6DC /* FramePoint.swift */; };
+		9ADA23952829C27D0062A08B /* LaunchAtLogin in Frameworks */ = {isa = PBXBuildFile; productRef = 9ADA23942829C27D0062A08B /* LaunchAtLogin */; };
 		9ADC33C227CFD62F0060AAAC /* Components.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9ADC33C127CFD62F0060AAAC /* Components.swift */; };
 		9ADC33C627D023280060AAAC /* Material.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9ADC33C527D023280060AAAC /* Material.swift */; };
 		9ADC33C827D13CD90060AAAC /* UpdateController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9ADC33C727D13CD90060AAAC /* UpdateController.swift */; };
@@ -155,6 +156,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				9ADA23952829C27D0062A08B /* LaunchAtLogin in Frameworks */,
 				9A6C9BB027C433C90053F696 /* LaunchAtLogin in Frameworks */,
 				9AF246BF2829A66B008A7169 /* Sparkle in Frameworks */,
 			);
@@ -366,6 +368,7 @@
 			packageProductDependencies = (
 				9A6C9BAF27C433C90053F696 /* LaunchAtLogin */,
 				9AF246BE2829A66B008A7169 /* Sparkle */,
+				9ADA23942829C27D0062A08B /* LaunchAtLogin */,
 			);
 			productName = Informant;
 			productReference = 9A09C2AF27C3F455007C1FE7 /* Informant.app */;
@@ -420,6 +423,7 @@
 			packageReferences = (
 				9A6C9BAE27C433C90053F696 /* XCRemoteSwiftPackageReference "LaunchAtLogin" */,
 				9AF246BD2829A66B008A7169 /* XCRemoteSwiftPackageReference "Sparkle" */,
+				9ADA23932829C27D0062A08B /* XCRemoteSwiftPackageReference "LaunchAtLogin" */,
 			);
 			productRefGroup = 9A09C2B027C3F455007C1FE7 /* Products */;
 			projectDirPath = "";
@@ -841,6 +845,14 @@
 				minimumVersion = 4.0.0;
 			};
 		};
+		9ADA23932829C27D0062A08B /* XCRemoteSwiftPackageReference "LaunchAtLogin" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/sindresorhus/LaunchAtLogin";
+			requirement = {
+				branch = main;
+				kind = branch;
+			};
+		};
 		9AF246BD2829A66B008A7169 /* XCRemoteSwiftPackageReference "Sparkle" */ = {
 			isa = XCRemoteSwiftPackageReference;
 			repositoryURL = "https://github.com/sparkle-project/Sparkle";
@@ -855,6 +867,11 @@
 		9A6C9BAF27C433C90053F696 /* LaunchAtLogin */ = {
 			isa = XCSwiftPackageProductDependency;
 			package = 9A6C9BAE27C433C90053F696 /* XCRemoteSwiftPackageReference "LaunchAtLogin" */;
+			productName = LaunchAtLogin;
+		};
+		9ADA23942829C27D0062A08B /* LaunchAtLogin */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = 9ADA23932829C27D0062A08B /* XCRemoteSwiftPackageReference "LaunchAtLogin" */;
 			productName = LaunchAtLogin;
 		};
 		9AF246BE2829A66B008A7169 /* Sparkle */ = {

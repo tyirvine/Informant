@@ -3,12 +3,12 @@
     <channel>
         <title>Informant</title>
         <item>
-            <title>1.0</title>
-            <pubDate>Mon, 09 May 2022 17:15:43 -0400</pubDate>
-            <sparkle:version>296</sparkle:version>
-            <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
+            <title>0.1</title>
+            <pubDate>Mon, 09 May 2022 17:52:07 -0400</pubDate>
+            <sparkle:version>18</sparkle:version>
+            <sparkle:shortVersionString>0.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>11.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://raw.githubusercontent.com/tyirvine/Informant/main/Informant-1.0.zip" length="4850409" type="application/octet-stream" sparkle:edSignature="TNMFafcBnrSv201Ymb1OpHf0Blx3eSeAgkYGIDhME7DW+DgKhi0Ys0uaW3mljMeqoD0ec40yU27a/H1zst6TBw=="/>
+            <enclosure url="https://raw.githubusercontent.com/tyirvine/Informant/main/Informant-0.1.zip" length="4850310" type="application/octet-stream" sparkle:edSignature="5DYyOyuYBXIoFweuld/TolqyuoBSjQM5OjaBGPtuq/nary9ByfeGJSRZP9t88TAWKiRiQguvAavEkvKtOO48Bw=="/>
         </item>
     </channel>
 </rss>
