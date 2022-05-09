@@ -1,36 +1,21 @@
-<br>
 
-<!-- Banner -->
-<p align="center"><img src="https://user-images.githubusercontent.com/39813066/130519018-d2faff43-45b0-4026-b313-cdbe0ce91e18.png" width="100px"></p>
+<!-- Header -->
+<img src="https://user-images.githubusercontent.com/39813066/130519018-d2faff43-45b0-4026-b313-cdbe0ce91e18.png" width="80px" align="top"/>
 
-
-<!-- Title -->
-<div align="center">
-  
-# 🚧  Informant is under construction  🚧
-  
+<div>
+  <h1>Informant 🔍</h1>
+  Informant is a file inspector for macOS that saves you from having to press <code>⌘ + i</code> all the time.
 </div>
 
-### ✉️ Message from the developer:
-**Hello! It's Ty, the creator of Informant.** I poured my heart into making this app and I had a lot of fun building it! My original intention was always to submit it on the App Store but when it got rejected I didn't know what to do. So I released it on here on a whim! The support has been really wonderful and I'm forever thankful for all the feedback, donations, and help.
+<br>
 
-I never imagined strangers would actually help me build this app. So from the bottom of my heart, thank you! ❤️
+<!-- Shields -->
+[![GitHub issues](https://img.shields.io/github/issues/tyirvine/Informant)](https://github.com/tyirvine/Informant/issues)
+![GitHub all releases](https://img.shields.io/github/downloads/tyirvine/Informant/total)
+![GitHub](https://img.shields.io/github/license/tyirvine/Informant)
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/tyirvine/Informant?style=social)
 
-I made a lot of life changes inorder to create this app and spent countless hours building it. I was anticipating recieving more donations but I've found the donation to download ratio to be 1:100, meaning I would need **100,000 downloads** just to make **$1000**.
-
-Because of this, I can't afford to keep Informant 100% free anymore. I'm really thankful for the donations and support but I've only recieved $16 in donations and that's definitely not enough to sustain development of an app like this. So with a heavy heart I'm sorry to tell you I've removed the source code and will no longer be offering this application in an open-source package.
-
-**🌥 BUT! This is not the end of Informant!** I'm currently working on a new and improved version of Informant! **Here's what you need to know ⤵︎**
-
-- Informant will continue to be free but some features will be paid upgrades!
-- The new version of Informant will have a built in update-mechanism!
-- Parts of the source will still be public so you can know nothing fishy is going on behind your back!
-
-I'm sorry to anyone who's recently discovered Informant and was about to download it! I'm going to release this version within the next couple weeks so stay tuned! I'm going to convert this repository into an issue-tracker and localization improvement centre for Informant. I will keep you updated!
-
-**Note: If you have a copy of Informant please continue to use it. But please, do not distribute it as your own! ❤️**
-
-# Install
+# Install ☁️
 Informant is undergoing changes and is not availble at this time.
 <!-- #### [**Download**](https://github.com/tyirvine/Informant/releases/latest/download/Informant.zip) - **Requires macOS 11.0 or later**
 Afterwards, unzip `Informant.zip` and drag `Informant` into your Applications folder. -->
@@ -80,7 +65,7 @@ However, if it's a file with a normal extension, and it's not stored in a Networ
 After authorizing, you may need to quit Informant and re-open it.
 
 ### Is Informant localized?
-Yes! However, it uses Microsoft Azure for translations so they may not be 100% accurate. If you've found a translation that you think is incorrect, please [submit feedback](https://github.com/tyirvine/Informant/issues/new/choose).
+Informant is not localized at the moment but if you'd like to help update translations you're more than welcome.
 
 ### Does Informant support other file explorers like Pathfinder?
 No, Informant only supports Finder. It can't detect files selected in any other application.
@@ -91,12 +76,10 @@ Informant runs on macOS 11.0 or later. It is not supported on Windows or Linux.
 ### Privacy Policy  🔒
 Informant does not collect any personal data, period.
 
-
 <br>
 
 <div align="center">
 
-### Thank you to everyone who has contributed to this project!
-### ❤️
+### Thank you to everyone who has contributed to this project! ❤️
 
 </div>
