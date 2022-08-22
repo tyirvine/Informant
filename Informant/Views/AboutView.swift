@@ -68,13 +68,6 @@ struct AboutView: View {
 					} content: {
 						ComponentsWindowLargeLink(label: ContentManager.Labels.privacyPolicy, icon: "rectangle.3.group.bubble.left", iconSize: 19)
 					}
-					
-					// Follow me on Twitter
-					ComponentsPanelLabelButton {
-						LinkHelper.openLink(link: .linkTwitter)
-					} content: {
-						ComponentsWindowLargeLink(label: ContentManager.Labels.twitter, icon: "twitter", iconSize: 20, usesSFSymbols: false)
-					}
 						
 					// Divider
 					Divider()
