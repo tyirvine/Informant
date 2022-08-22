@@ -9,7 +9,6 @@ import LaunchAtLogin
 import SwiftUI
 
 struct SettingsView: View {
-
 	@ObservedObject var settingsController: SettingsController
 
 	init() {
@@ -17,11 +16,9 @@ struct SettingsView: View {
 	}
 
 	var body: some View {
-
 		// Main view group
 		RootView {
 			HStack {
-
 				Spacer()
 
 				// Left side
@@ -40,7 +37,6 @@ struct SettingsView: View {
 }
 
 struct SettingsLeftView: View {
-
 	var version: String?
 
 	init() {
@@ -51,10 +47,8 @@ struct SettingsLeftView: View {
 
 	var body: some View {
 		Group {
-
 			// Main stack
 			VStack(spacing: 15) {
-
 				// Top stack
 				VStack(spacing: 0) {
 					Image(ContentManager.Images.appIconNoShadow)
@@ -70,12 +64,12 @@ struct SettingsLeftView: View {
 					if let version = version {
 						Text("\(ContentManager.Labels.panelVersion) \(version)")
 							.opacity(0.5)
+							.padding([.top], 2)
 					}
 				}
 
 				// Bottom stack
 				VStack(alignment: .leading) {
-
 					// Feedback
 					ComponentsPanelLabelButton {
 						LinkHelper.openLink(link: .linkFeedback)
@@ -110,13 +104,11 @@ struct SettingsLeftView: View {
 }
 
 struct SettingsRightView: View {
-
 	@ObservedObject var settingsController: SettingsController
 
 	let cornerRadius: CGFloat = 10
 
 	var body: some View {
-
 		ScrollView(.vertical, showsIndicators: true) {
 			SettingsItems(settingsController: settingsController)
 				.padding([.horizontal], 36)
@@ -147,18 +139,15 @@ struct SettingsRightView: View {
 }
 
 struct SettingsItems: View {
-
 	@ObservedObject var settingsController: SettingsController
 
 	var body: some View {
-
 		// Panel and system preferences
 		VStack(alignment: .leading, spacing: 0) {
-
 			// MARK: Display
+
 			// For determining fixed size
 			Group {
-
 				// Menu label
 				Text(ContentManager.Labels.details)
 					.H3(weight: .semibold)
@@ -166,7 +155,6 @@ struct SettingsItems: View {
 
 				// Display details in
 				Picker(ContentManager.Labels.displayDetailsIn, selection: $settingsController.settings.settingChosenDisplay) {
-
 					Text(ContentManager.Labels.displayMenubar)
 						.tag(DisplayController.Displays.StatusDisplay)
 
@@ -182,7 +170,6 @@ struct SettingsItems: View {
 
 				// Menu bar icon
 				Picker(ContentManager.Labels.menubarIconDesc, selection: $settingsController.settings.settingMenubarIcon) {
-
 					Text(ContentManager.Icons.noIcon)
 						.tag(ContentManager.Icons.menubarBlank)
 
@@ -203,29 +190,24 @@ struct SettingsItems: View {
 					.frame(height: 16)
 
 				VStack(alignment: .leading, spacing: 21) {
-
 					// MARK: - General
 
 					ComponentsSettingsToggleSection(ContentManager.Labels.menubarSectionsGeneral) {
-
 						TogglePadded(ContentManager.Labels.menubarShowSize, isOn: $settingsController.settings.settingShowSize)
 
 						TogglePadded(ContentManager.Labels.menubarShowKind, isOn: $settingsController.settings.settingShowKind)
 
 					} secondColumn: {
-
 						TogglePadded(ContentManager.Labels.menubarShowName, isOn: $settingsController.settings.settingShowName)
 
 						TogglePadded(ContentManager.Labels.menubarShowPath, isOn: $settingsController.settings.settingShowPath)
 
 					} thirdColumn: {
-
 						TogglePadded(ContentManager.Labels.menubarShowCreated, isOn: $settingsController.settings.settingShowCreated)
 
 						TogglePadded(ContentManager.Labels.menubarShowEdited, isOn: $settingsController.settings.settingShowModified)
 
 					} fourthColumn: {
-
 						TogglePadded(ContentManager.Labels.menubarShowVersion, isOn: $settingsController.settings.settingShowVersion)
 
 						TogglePadded(ContentManager.Labels.menubarShowItems, isOn: $settingsController.settings.settingShowItems)
@@ -234,78 +216,60 @@ struct SettingsItems: View {
 					// MARK: - Images
 
 					ComponentsSettingsToggleSection(ContentManager.Labels.menubarSectionsImages) {
-
 						TogglePadded(ContentManager.Labels.menubarShowAperture, isOn: $settingsController.settings.settingShowAperture)
 
 						TogglePadded(ContentManager.Labels.menubarShowCamera, isOn: $settingsController.settings.settingShowCamera)
 
 					} secondColumn: {
-
 						TogglePadded(ContentManager.Labels.menubarShowShutterspeed, isOn: $settingsController.settings.settingShowShutterSpeed)
 
 						TogglePadded(ContentManager.Labels.menubarShowFocalLength, isOn: $settingsController.settings.settingShowFocalLength)
 
 					} thirdColumn: {
-
 						TogglePadded(ContentManager.Labels.menubarShowColorGamut, isOn: $settingsController.settings.settingShowColorGamut)
 
 						TogglePadded(ContentManager.Labels.menubarShowISO, isOn: $settingsController.settings.settingShowISO)
 
-					} fourthColumn: {
-					}
+					} fourthColumn: {}
 
 					// MARK: - Media
 
 					ComponentsSettingsToggleSection(ContentManager.Labels.menubarSectionsMedia) {
-
 						TogglePadded(ContentManager.Labels.menubarShowDimensions, isOn: $settingsController.settings.settingShowDimensions)
 
 						TogglePadded(ContentManager.Labels.menubarShowDuration, isOn: $settingsController.settings.settingShowDuration)
 
 					} secondColumn: {
-
 						TogglePadded(ContentManager.Labels.menubarShowSampleRate, isOn: $settingsController.settings.settingShowSampleRate)
 
 						TogglePadded(ContentManager.Labels.menubarShowColorProfile, isOn: $settingsController.settings.settingShowColorProfile)
 
 					} thirdColumn: {
-
 						TogglePadded(ContentManager.Labels.menubarShowCodecs, isOn: $settingsController.settings.settingShowCodecs)
 
 						TogglePadded(ContentManager.Labels.menubarShowBitrate, isOn: $settingsController.settings.settingShowTotalBitrate)
 
-					} fourthColumn: {
-					}
+					} fourthColumn: {}
 
 					// MARK: - Volume
 
 					ComponentsSettingsToggleSection(ContentManager.Labels.menubarSectionsVolume) {
-
 						TogglePadded(ContentManager.Labels.menubarShowVolumeTotal, isOn: $settingsController.settings.settingShowVolumeTotal)
 
 					} secondColumn: {
-
 						TogglePadded(ContentManager.Labels.menubarShowVolumeAvailable, isOn: $settingsController.settings.settingShowVolumeAvailable)
 
 					} thirdColumn: {
-
 						TogglePadded(ContentManager.Labels.menubarShowVolumePurgeable, isOn: $settingsController.settings.settingShowVolumePurgeable)
 
-					} fourthColumn: {
-					}
+					} fourthColumn: {}
 
 					// MARK: - Extra
 
 					ComponentsSettingsToggleSection(ContentManager.Labels.menubarShowExtra) {
-
 						TogglePadded(ContentManager.Labels.menubarShowiCloudContainer, isOn: $settingsController.settings.settingShowiCloudContainerName)
 
-					} secondColumn: {
-
-					} thirdColumn: {
-
-					} fourthColumn: {
-					}
+					} secondColumn: {} thirdColumn: {} fourthColumn: {}
 				}
 			}
 			.fixedSize()
@@ -315,16 +279,15 @@ struct SettingsItems: View {
 				.frame(height: 20)
 
 			// MARK: System
+
 			// For determining fixed size
 			Group {
-
 				// System label
 				Text(ContentManager.Labels.system)
 					.H3(weight: .semibold)
 					.padding([.bottom], 8)
 
 				VStack(alignment: .leading, spacing: 12) {
-
 					// Hide when using apps besides Finder
 					TogglePadded(ContentManager.Labels.hideWhenUsingOtherApps, isOn: $settingsController.settings.settingHideWhenViewingOtherApps)
 
@@ -358,7 +321,6 @@ struct SettingsItems: View {
 
 					// Update frequency
 					Picker(ContentManager.Labels.updateFrequency, selection: $settingsController.settings.settingUpdateFrequency) {
-
 						Text(ContentManager.Labels.updateAutoUpdate)
 							.padding([.bottom], 4)
 							.tag(UpdateFrequency.AutoUpdate)
