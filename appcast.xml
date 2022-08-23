@@ -8,10 +8,7 @@
             <sparkle:version>31</sparkle:version>
             <sparkle:shortVersionString>0.2</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>11.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://raw.githubusercontent.com/tyirvine/Informant/main/Informant.0.2.zip" length="4865178" type="application/octet-stream" sparkle:edSignature="mMU8uGmSRbNYZFWC+Gb7bIP2FVnWMjkYKAHmd8limbUSHcoiHhRNml+YjI85VD3qV++dpEVq9GOIo3E+mz0qCw=="/>
-            <sparkle:deltas>
-                <enclosure url="https://raw.githubusercontent.com/tyirvine/Informant/main/Informant31-18.delta" sparkle:deltaFrom="18" length="516518" type="application/octet-stream" sparkle:edSignature="t3a16H6/z8U3wVpED1EMXxt3RqZ7kofwlaSgPgrgf5blarwyxYyeCpSZnSYe0TuhsOOQAp0FxkJW3hyfKxAvCA=="/>
-            </sparkle:deltas>
+            <enclosure url="https://github.com/tyirvine/Informant/releases/download/v0.2/Informant.0.2.zip" length="4865178" type="application/octet-stream" sparkle:edSignature="mMU8uGmSRbNYZFWC+Gb7bIP2FVnWMjkYKAHmd8limbUSHcoiHhRNml+YjI85VD3qV++dpEVq9GOIo3E+mz0qCw=="/>
         </item>
         <item>
             <title>0.1</title>
@@ -19,7 +16,7 @@
             <sparkle:version>18</sparkle:version>
             <sparkle:shortVersionString>0.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>11.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://raw.githubusercontent.com/tyirvine/Informant/main/Informant.0.1.zip" length="4850310" type="application/octet-stream"/>
+            <enclosure url="https://github.com/tyirvine/Informant/releases/download/v0.1/Informant.0.1.zip" length="4850310" type="application/octet-stream"/>
         </item>
     </channel>
 </rss>
