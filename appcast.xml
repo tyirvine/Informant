@@ -3,12 +3,23 @@
     <channel>
         <title>Informant</title>
         <item>
+            <title>0.2</title>
+            <pubDate>Mon, 22 Aug 2022 21:03:53 -0400</pubDate>
+            <sparkle:version>31</sparkle:version>
+            <sparkle:shortVersionString>0.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>11.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://raw.githubusercontent.com/tyirvine/Informant/main/Informant.0.2.zip" length="4865178" type="application/octet-stream" sparkle:edSignature="mMU8uGmSRbNYZFWC+Gb7bIP2FVnWMjkYKAHmd8limbUSHcoiHhRNml+YjI85VD3qV++dpEVq9GOIo3E+mz0qCw=="/>
+            <sparkle:deltas>
+                <enclosure url="https://raw.githubusercontent.com/tyirvine/Informant/main/Informant31-18.delta" sparkle:deltaFrom="18" length="516518" type="application/octet-stream" sparkle:edSignature="t3a16H6/z8U3wVpED1EMXxt3RqZ7kofwlaSgPgrgf5blarwyxYyeCpSZnSYe0TuhsOOQAp0FxkJW3hyfKxAvCA=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>0.1</title>
             <pubDate>Mon, 09 May 2022 17:52:07 -0400</pubDate>
             <sparkle:version>18</sparkle:version>
             <sparkle:shortVersionString>0.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>11.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://raw.githubusercontent.com/tyirvine/Informant/main/Informant.zip" length="4850310" type="application/octet-stream" sparkle:edSignature="5DYyOyuYBXIoFweuld/TolqyuoBSjQM5OjaBGPtuq/nary9ByfeGJSRZP9t88TAWKiRiQguvAavEkvKtOO48Bw=="/>
+            <enclosure url="https://raw.githubusercontent.com/tyirvine/Informant/main/Informant.0.1.zip" length="4850310" type="application/octet-stream"/>
         </item>
     </channel>
 </rss>
