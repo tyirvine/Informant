@@ -21,9 +21,19 @@
 <img alt="GitHub release (latest by date)" src="https://img.shields.io/github/v/release/tyirvine/Informant?style=social">
 </div>
   
+
+
+![GitHub Poster Wrapper](https://user-images.githubusercontent.com/39813066/223221715-27821c9b-7bda-475c-b62b-9a684c9ea640.png)
+
+  
 # Install ☁️
 #### [**Download**](https://github.com/tyirvine/Informant/releases/latest/download/Informant.zip) - **Requires macOS 11.0 or later**
 Afterwards, unzip `Informant.zip` and drag `Informant` into your Applications folder.
+
+```diff
+! Note: I have not yet issued an update for Ventura so I apologize if you're experiencing any buggy behaviour.
+! An update for Ventura will be available soon!
+```
 
 # Contributing  🔨
 1. Start by forking this project **"To contribute to the parent project"**.
