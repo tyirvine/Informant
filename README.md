@@ -20,10 +20,9 @@
 
 <img alt="GitHub release (latest by date)" src="https://img.shields.io/github/v/release/tyirvine/Informant?style=social">
 </div>
-  
 
 
-![GitHub Poster Wrapper](https://user-images.githubusercontent.com/39813066/223221715-27821c9b-7bda-475c-b62b-9a684c9ea640.png)
+![GitHub Poster Wrapper](https://github.com/tyirvine/Informant/assets/39813066/a3542faa-127c-4b8b-b1f4-010acdf0cbe4)
 
   
 # Install ☁️
