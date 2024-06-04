@@ -29,11 +29,6 @@
 #### [**Download**](https://github.com/tyirvine/Informant/releases/latest/download/Informant.zip) - **Requires macOS 11.0 or later**
 Afterwards, unzip `Informant.zip` and drag `Informant` into your Applications folder.
 
-```diff
-! Note: I have not yet issued an update for Ventura so I apologize if you're experiencing any buggy behaviour.
-! An update for Ventura will be available soon!
-```
-
 # Contributing  🔨
 1. Start by forking this project **"To contribute to the parent project"**.
 2. Then, clone your fork to your computer and open it with Xcode.
